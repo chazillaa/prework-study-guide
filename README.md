@@ -4,13 +4,9 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
 To get an idea of what coding looks like and understand the basics to dive deeper in the coding bootcamp
-- Why did you build this project?
 To make a project that can hold notes in an organized manner and to use it as a study guide for improving in my ability to code
-- What problem does it solve?
 It solved a way for me to have information in a centrilized location that can be used to practice coding
-- What did you learn?
 Learned basic elements of HTML, CSS, and JS to be able to build better and more useful applications in the future
 
 ## Installation
